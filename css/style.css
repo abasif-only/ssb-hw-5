@@ -1,0 +1,41 @@
+.logo{
+	background-color: transparent;
+}
+.ser{
+	padding-top: 10px;
+	height: 33%;
+}
+
+.bg{
+	width: 32%;
+	background-color: #C70039 ;
+}
+.ser img{
+	width: 100%;
+}
+.b{
+	color: white;
+}
+.m{
+	margin-right: 5px;
+}.p{
+	padding-left:  55px;
+}
+.ft a{
+	text-decoration: none;
+	color: white;
+}
+.ft a:hover{
+	color: black;
+}
+.link p{
+	color: white;
+}
+
+.p{
+
+	padding: 0px 30px;
+}
+.p1{
+	padding: 0px 10px;
+}
